@@ -39,10 +39,12 @@
 **Frontend & Mobile**
 
 ![React](https://img.shields.io/badge/React-TypeScript%20/%20JavaScript-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-React%20Native%20/%20Java%20/%20Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-Swift%20/%20React%20Native-000000?style=flat-square&logo=apple&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Android](https://img.shields.io/badge/Android-React%20Native%20/%20Java%20/%20Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Spring%20Template%20Engine-005F0F?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 
 ---
 
