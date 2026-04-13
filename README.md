@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Kalana Gayan Kumarasinghe
+# Kalana Gayan Kumarasinghe.
 
 **Software Developer**
 
