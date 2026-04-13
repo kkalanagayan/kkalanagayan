@@ -113,6 +113,7 @@
 [![Email](https://img.shields.io/badge/Email-kkalana.gayan%40icloud.com%20%7C%20kkalana.gayan%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white)](mailto:kkalana.gayan@icloud.com)
 
 [![Phone](https://img.shields.io/badge/Phone-+94%2070%20565%208989%20%7C%20+94%2078%20855%208989-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+94705658989)
+
 ---
 
 ## Find Me Online
