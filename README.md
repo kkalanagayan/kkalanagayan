@@ -100,5 +100,5 @@
 ---
 
 <div align="center">
-  <sub>Built with intention · Sri Lanka 🇱🇰</sub>
+  <sub> © 2026 Kalana Gayan Kumarasinghe. All rights reserved. </sub>
 </div>
