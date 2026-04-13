@@ -3,7 +3,7 @@
 
 # Kalana Gayan Kumarasinghe
 
-**Software Developer · Sri Lanka 🇱🇰**
+**Software Developer**
 
 [![Available](https://img.shields.io/badge/Status-Available%20for%20opportunities-1D9E75?style=flat-square&labelColor=0a0a0a)](https://www.linkedin.com/in/kkalanagayan)
 [![Backend](https://img.shields.io/badge/Focus-Backend%20Specialist-534AB7?style=flat-square&labelColor=0a0a0a)](https://github.com/kkalanagayan)
